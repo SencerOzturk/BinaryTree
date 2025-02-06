@@ -1,0 +1,7 @@
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\6.hafta\Binary Tree\Btree\bin\Debug\Btree.exe.config
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\6.hafta\Binary Tree\Btree\bin\Debug\Btree.exe
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\6.hafta\Binary Tree\Btree\bin\Debug\Btree.pdb
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\6.hafta\Binary Tree\Btree\obj\Debug\Btree.csproj.AssemblyReference.cache
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\6.hafta\Binary Tree\Btree\obj\Debug\Btree.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\6.hafta\Binary Tree\Btree\obj\Debug\Btree.exe
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\6.hafta\Binary Tree\Btree\obj\Debug\Btree.pdb
